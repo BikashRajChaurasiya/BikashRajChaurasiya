@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bikash Raj Chaurasiya
 
-🎯 AI & Computing Graduate | 💻 Full-Stack Developer | ☁️ 4x AWS Certified | Machine Learning Enthusiast
+🎯 AI & Computing Graduate | 💻 Full-Stack Developer | ☁️ Machine Learning Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bikash-raj)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BikashRaj)
